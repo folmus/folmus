@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @folmus
-- 👀 I’m interested in learning web development
+- 👀 I’m learning web development
 - 📫 How to reach me ... contact@folmus.com
 
 <!---
